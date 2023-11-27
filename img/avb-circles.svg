@@ -1,1 +1,18 @@
-<svg width="1153" height="1089" viewBox="0 0 1153 1089" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle opacity="0.8" cx="460.5" cy="628.5" r="460.5" fill="#7D308A"/> <ellipse opacity="0.7" cx="446" cy="446.5" rx="446" ry="446.5" fill="#00A0DD"/> <ellipse opacity="0.8" cx="715.5" cy="616" rx="437.5" ry="437" fill="#CAD507"/> <ellipse opacity="0.7" cx="724.5" cy="402" rx="379.5" ry="380" fill="#55BCB5"/> </svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000" xml:space="preserve">
+<desc>Created with Fabric.js 3.5.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="rgba(102,51,102,0)"/>
+<g transform="matrix(0.8673 0 0 0.8673 399.3916 572.8522)" id="849994">
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(0,105,185); fill-rule: nonzero; opacity: 0.8;" cx="0" cy="0" r="460.5"/>
+</g>
+<g transform="matrix(0.8673 0 0 0.8673 386.8157 415.0031)" id="308594">
+<ellipse style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(0,160,221); fill-rule: nonzero; opacity: 0.7;" cx="0" cy="0" rx="446" ry="446.5"/>
+</g>
+<g transform="matrix(0.8673 0 0 0.8673 620.5539 562.0109)" id="313277">
+<ellipse style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(75,188,231); fill-rule: nonzero; opacity: 0.8;" cx="0" cy="0" rx="437.5" ry="437"/>
+</g>
+<g transform="matrix(0.8673 0 0 0.8673 628.3598 376.4084)" id="845929">
+<ellipse style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(0,105,185); fill-rule: nonzero; opacity: 0.7;" cx="0" cy="0" rx="379.5" ry="380"/>
+</g>
+</svg>

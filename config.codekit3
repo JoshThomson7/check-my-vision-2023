@@ -397,50 +397,11 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/img\/feature-tabs.jpg" : {
-      "ft" : 16384,
-      "iS" : 248654,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/img\/feature-tabs.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/ISO-Inverted.png" : {
-      "ft" : 32768,
-      "iS" : 28853,
-      "oA" : 0,
-      "oAP" : "\/img\/ISO-Inverted.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/img\/logo.png" : {
       "ft" : 32768,
       "iS" : 45134,
       "oA" : 0,
       "oAP" : "\/img\/logo.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/old-logo.png" : {
-      "ft" : 32768,
-      "iS" : 11347,
-      "oA" : 0,
-      "oAP" : "\/img\/old-logo.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -3905,7 +3866,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 652874357.77309203,
-    "displayValue" : "readez-2023",
+    "displayValue" : "check-my-vision-2023",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-koamaru",
     "iconImageWasSetByUser" : 0

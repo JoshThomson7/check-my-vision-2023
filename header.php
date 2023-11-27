@@ -23,6 +23,24 @@
                     </div>
                 <?php endif; ?>
 
+                <div class="pre__header">
+                    <div class="max__width">
+                        <ul>
+                            <li>
+                                <i class="fa fa-phone"></i><a href="tel:+441707 414700">+44 1707 414700</a>
+                            </li>
+                            <li>
+                                <i class="fa fa-envelope"></i><a href="mailto:help@checkmyvision.com">help@checkmyvision.com</a>
+                            </li>  
+                            <li>
+                                <a href="#" class="spotlight-open">
+                                    <i class="fa fa-search"></i>
+                                </a>
+                            </li>   
+                        </ul>
+                    </div>
+                </div>
+
                 <div class="header__main">
                     <div class="max__width">
                         <div class="header__main--left">
@@ -36,24 +54,8 @@
                         </div>
 
                         <div class="header__main--right">
-                            <ul>
-                                <li>
-                                    <a href="<?php echo wc_get_cart_url(); ?>">
-                                        <i class="fal fa-basket-shopping-simple"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" class="spotlight-open">
-                                        <i class="fal fa-search"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="/products" class="button primary small icon-right">
-                                        <span>Buy Now</span>
-                                        <i class="fa fa-chevron-right"></i>
-                                    </a>
-                                </li>        
-                            </ul>
+
+                            <a href="https://app.checkmyvision.co.uk/storelocator/" class="button primary" target="_blank">Store Locator</a>
 
                             <a href="#nav_mobile" class="burger__menu">
                                 <i class="fal fa-bars"></i>

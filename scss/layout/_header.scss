@@ -25,13 +25,32 @@ header.header {
         }
     }
 
+    .pre__header{
+        padding: 10px 0; background: $primary;
+
+        ul{display: flex; justify-content: space-between; align-items: center;
+            @include breakpoint(550px){flex-direction: column;}
+            li{
+                i{color: #fff;}
+                a{color: #fff; margin-left: 10px;}
+
+                @include breakpoint(550px){padding: 5px 0;}
+
+                &:last-child{
+                    @include breakpoint(550px){display: none;}
+                }
+
+            }
+        }
+    } 
+
     // Nav
     @import "./mega-menu";
 
     .header__main {
         position: relative;
 		z-index: 1;
-        padding: 16px 0 40px;
+        padding: 10px 0;
 
         @include breakpoint(brotherbear) {
             padding: 5px 0;
@@ -53,7 +72,7 @@ header.header {
             }
 
             .logo {
-                width: 200px;
+                width: 150px;
                 transition: all 0.4s ease;
                 margin-right: var(--fl1-spacing-xs);
             }

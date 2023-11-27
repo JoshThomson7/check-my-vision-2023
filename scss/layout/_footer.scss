@@ -173,7 +173,7 @@ footer {
     }
 
     .footer__menus {
-        padding: 56px 0 40px;
+        padding: 56px 0 40px; display: none; 
 
         @include breakpoint(papabear) {
             padding: 0;
